@@ -145,18 +145,41 @@ Our Multi-branch based design significantly improves the performance of the VG t
 
 * <span style="color:cyan; font-weight:bold; font-size: 20px;">Referring Expression Comprehension (REC)</span>
 
-Visualization of referring objects for multiple referring expression queries per image (left: DIOR-RSVG, right: OPT-RSVG).
+Visualization of referring objects for multiple referring expression queries per image.
+
+<center>
+  <h1>DIOR-RSVG</h1>
+</center>
 
 <div align="center">
 <img src="viz/dior_best_viz_multi_class_grayGT.jpg" width="600">
+</div>
+
+<center>
+  <h1>OPT-RSVG</h1>
+</center>
+
+
+<div align="center">
 <img src="viz/best_viz_multi_class_grayGT_.jpg" width="600">
 </div>
 
-
 * <span style="color:cyan; font-weight:bold; font-size: 20px;">Object Detection (OD)</span>
+
+<center>
+  <h1>DIOR-RSVG</h1>
+</center>
 
 <div align="center">
     <img src="viz/dior_od_multi_supp.jpg" width=600">
+</div>
+
+<center>
+  <h1>OPT-RSVG</h1>
+</center>
+
+
+<div align="center">
     <img src="viz/opt_od_multi_supp.jpg" width=600">
 </div>
 
