@@ -16,7 +16,7 @@ Visual Grounding in Remote Sensing</span>](https://arxiv.org/abs/2503.24219v1)
 Our framework is designed to retain object detection capabilities while providing users with essential information to simplify query formulation for their object of interest.
 
 <div align="center">
-    <img src="unify_custom_approach_v3.png" width=500">
+    <img src="unify_custom_approach_v3.png" width=600">
 </div>
 
 
@@ -143,33 +143,30 @@ Our Multi-branch based design significantly improves the performance of the VG t
 
 ## Qualitative Results
 
-\* <span style="color:cyan; font-weight:bold; font-size: 20px;">Referring Expression Comprehension (REC)</span>
+* <span style="color:cyan; font-weight:bold; font-size: 20px;">Referring Expression Comprehension (REC)</span>
 
 Visualization of referring objects for multiple referring expression queries per image (left: DIOR-RSVG, right: OPT-RSVG).
 
 <div align="center">
-<img src="viz/dior_best_viz_multi_class_grayGT.jpg" width="500">
-<img src="viz/best_viz_multi_class_grayGT_.jpg" width="500">
+<img src="viz/dior_best_viz_multi_class_grayGT.jpg" width="600">
+<img src="viz/best_viz_multi_class_grayGT_.jpg" width="600">
 </div>
 
 
-\* <span style="color:cyan; font-weight:bold; font-size: 20px;">Object Detection (OD)</span>
+* <span style="color:cyan; font-weight:bold; font-size: 20px;">Object Detection (OD)</span>
 
 <div align="center">
-    <img src="viz/dior_od_multi_supp.jpg" width=500">
-    <img src="viz/opt_od_multi_supp.jpg" width=500">
+    <img src="viz/dior_od_multi_supp.jpg" width=600">
+    <img src="viz/opt_od_multi_supp.jpg" width=600">
 </div>
 
-\* <span style="color:cyan; font-weight:bold; font-size: 20px;">Unification of REC and OD</span>
+* <span style="color:cyan; font-weight:bold; font-size: 20px;">Unification of REC and OD</span>
 
 Simultaneous object detection and referring object localization.
 
 <div align="center">
-<title>Object detection</title>
-<img src="viz/dior_od_multi.jpg" width="500"><br>
-<title>REC</title>
-
-<img src="viz/dior_rec_single.jpg" width="500">
+<img src="viz/dior_od_multi.jpg" width="600"><br>
+<img src="viz/dior_rec_single.jpg" width="600">
 </div>
 
 
